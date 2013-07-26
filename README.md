@@ -1,0 +1,4 @@
+uglyNum
+=======
+
+CodeEval challenges
